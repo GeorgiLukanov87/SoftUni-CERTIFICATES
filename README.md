@@ -1,6 +1,6 @@
---Hello-- ,
+Hello,  
 
-My name is Georgi St. Lukanov , I'm from Bulgaria,city of Varna.
-
-Doing my first steps in coding in SoftUni .
+my name is Georgi St. Lukanov.
+I am from Varna , Bulgaria.
+Doing my first steps of coding in SoftUni.
 
