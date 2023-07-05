@@ -5,3 +5,4 @@
 ![Python OOP - October 2022 - Certificate](https://user-images.githubusercontent.com/102332504/232342580-615fb525-5d70-4ac6-b76d-8de04c3a1cd3.jpeg)
 ![Programming Fundamentals with Python - May 2022 - Certificate](https://user-images.githubusercontent.com/102332504/232342581-05b09684-1c47-4660-89a1-445315f2526a.jpeg)
 ![JS Front-End - February 2023 - Certificate](https://user-images.githubusercontent.com/102332504/232342583-5f24339a-d959-4b30-ab66-f28f45264761.jpeg)
+![Python Web Basics - May 2023 - Certificate](https://github.com/GeorgiLukanov87/SoftUni-Fundamentals/assets/102332504/5632fd20-576d-4be6-9588-2de0ee9f626e)
