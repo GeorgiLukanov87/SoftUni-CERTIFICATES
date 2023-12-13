@@ -6,4 +6,4 @@
 ![js-front-end](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/49602d10-0fec-4dd3-b749-f4cecd3ce23f)
 ![python-web-basics](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/d6db318a-c48e-4717-98f1-c65d83d1c8e1)
 ![django-web-framework](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/bd6049da-b325-4f3a-92cc-3c4e6089c01d)
-
+![ReactJs - Oct 2023](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/26ba0453-149a-4a74-a817-6dc744b43007)
