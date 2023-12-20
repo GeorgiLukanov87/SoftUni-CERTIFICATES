@@ -1,3 +1,4 @@
+![diploma](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/a64f7112-4914-49d9-8de9-28167625ee8f)
 ![python-basics](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/629df2e0-4382-4119-9a48-972b18aeea4c)
 ![python-fundamentals](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/112e5008-00ec-442b-88a0-75870a22dcf1)
 ![python-advanced](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/d1eba648-2d27-43bc-9233-0cc86ca6193a)
