@@ -1,4 +1,6 @@
 ![Georgi Lukanov Strypes Lab Python Advanced 2024](https://github.com/user-attachments/assets/40cfa08c-9682-4ef0-b432-95c0a97d558e)
+![Software Engineering and DevOps - February 2024](https://github.com/user-attachments/assets/b0ae3dfd-2ad9-4221-845a-9b3c37b1b476)
+![Containers and Cloud - January 2024](https://github.com/user-attachments/assets/1388175c-be4d-4ad5-b7b5-400364d73ea6)
 ![215977](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/37d4e347-5c70-4397-b8c9-e88a0372984a)
 ![diploma](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/a64f7112-4914-49d9-8de9-28167625ee8f)
 ![Software Engineering and DevOps - February 2024](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/70b4a585-e193-44a7-8b89-e15039903065)
