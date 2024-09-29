@@ -1,4 +1,4 @@
-
+![Georgi Lukanov Strypes Lab Python Advanced 2024](https://github.com/user-attachments/assets/40cfa08c-9682-4ef0-b432-95c0a97d558e)
 ![215977](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/37d4e347-5c70-4397-b8c9-e88a0372984a)
 ![diploma](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/a64f7112-4914-49d9-8de9-28167625ee8f)
 ![Software Engineering and DevOps - February 2024](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/70b4a585-e193-44a7-8b89-e15039903065)
@@ -13,3 +13,4 @@
 ![python-basics](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/629df2e0-4382-4119-9a48-972b18aeea4c)
 ![python-fundamentals](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/112e5008-00ec-442b-88a0-75870a22dcf1)
 ![python-advanced](https://github.com/GeorgiLukanov87/SoftUni-CERTIFICATES/assets/102332504/d1eba648-2d27-43bc-9233-0cc86ca6193a)
+
